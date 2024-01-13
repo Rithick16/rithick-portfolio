@@ -90,7 +90,7 @@ header {
 
 @media (max-width: 767px) {
     .menu {
-        position: absolute;
+        position: fixed;
         width: 200px;
         height: calc(100vh - 87px);
         background: #FFF;
